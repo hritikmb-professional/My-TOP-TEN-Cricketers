@@ -4,8 +4,13 @@ body{
 }
 h1{
     color: #DDDDDD;
+    font-family:Tiny5 ;
 }
 h2{
     color: beige;
     font-style:normal;
+    font-family:Tiny5 ;
+}
+p{
+   font-family:Tiny5;
 }
